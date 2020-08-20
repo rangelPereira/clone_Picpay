@@ -40,14 +40,3 @@ $ npm install
 # caso você utilize o yarn
 $ yarn
 ```
-
-EXECUTE A APLICAÇÃO
-
-```sh
-#vá para a pasta server
-$ cd server
-# prepare seu banco de dados
-$ yarn knex:migrate
-# inicie o backend
-$ yarn start
-```
