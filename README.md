@@ -1,20 +1,29 @@
 
+<h1 align="center">
+    <br>Clone da interface do Picpay<br/>
+    Node.js | ReactJS | React Native
+</h1>
 
-## Clone da interface do Picpay
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rangelPereira/clone_Picpay?style=for-the-badge&logo=typescript">
+  <img alt="Code by RangelPereira" src="https://img.shields.io/badge/Code%20by-RangelPereira-%237519C1?style=for-the-badge"><br/>
+</p>
+
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#arrow_forward-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
 O projeto foi criado com React Native, foi abordada diversos conceitos de navigação e de useState para trabalhar as trocas de cores. <br/>
 Essa porjeto foi é um clone no Picpay e foi criado apenas com intuito educacional, para deselvolmer minhas habilidas em criações de interfaces. <br/><br/>
 
 
-<div align="center">
- <img  src="git/mobile.gif" width="200" >
-  <p>Cadastro de professores</p>
+<div>
+ <img  src="git/mobile.gif" width="300" >
 </div>
 <br/>
 
-## :rocket: Algumas das tecnologias usadas no Projeto
-
-. JavaScript<br/>
+## :rocket: Tecnologias
 
 . [ReactJS](https://reactjs.org/)<br/>
 
@@ -24,19 +33,24 @@ Essa porjeto foi é um clone no Picpay e foi criado apenas com intuito educacion
 
 <br/><br/>
 
-## Como executar o projeto
+## :arrow_forward: Como executar
 
-ANTES iniciar o projeto, certifique-se de que tenha instalado na sua máquina:
+_com **npm**_
 
-. O `node.js` ; <br/>
-. E um gerenciador de pacotes seja o `npm` ou `yarn`; <br/>
-
-
- INSTALE AS DEPENDÊNCIAS
-
-```sh
-# caso você utilize o npm
+```bash
+# Instalar dependências
 $ npm install
-# caso você utilize o yarn
-$ yarn
+# Iniciar servidor
+$ npm start
 ```
+
+_com **yarn**_
+
+```bash
+# Instalar dependências
+$ yarn
+# Iniciar servidor de desenvolvimento
+$ yarn start
+```
+
+---
