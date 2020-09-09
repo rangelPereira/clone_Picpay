@@ -14,8 +14,7 @@
   <a href="#arrow_forward-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-O projeto foi criado com React Native, foi abordada diversos conceitos de navigação e de useState para trabalhar as trocas de cores. <br/>
-Essa porjeto foi é um clone no Picpay e foi criado apenas com intuito educacional, para deselvolmer minhas habilidas em criações de interfaces. <br/><br/>
+Essa projeto foi é um clone no Picpay   foi criado com React Native, criado apenas com intuito educacional, trabalhando a criação de interfaces, diversos conceitos de navegação e de useState.<br/><br/>
 
 
 <div>
