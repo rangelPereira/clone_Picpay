@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <br>Clone da interface do Picpay<br/>
+    <br>UI Clone - Picpay<br/>
     Node.js | ReactJS | React Native
 </h1>
 
